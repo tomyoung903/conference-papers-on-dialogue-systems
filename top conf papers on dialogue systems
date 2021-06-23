@@ -1,0 +1,630 @@
+top conf papers on DS
+ACL
+2019
+Learning from Dialogue after Deployment: Feed Yourself, Chatbot!.
+Generating Responses with a Specific Emotion in Dialog.
+Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention.
+OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs.
+Incremental Learning from Scratch for Task-Oriented Dialogue Systems.
+ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation.
+Joint Effects of Context and User History for Predicting Online Conversation Re-entries.
+Dialogue Natural Language Inference.
+Budgeted Policy Learning for Task-Oriented Dialogue Systems.
+Extracting Symptoms and their Status from Clinical Conversations.
+Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems.
+E3: Entailment-driven Extracting and Editing for Conversational Machine Reading.
+What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations.
+MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations.
+Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling.
+Proactive Human-Machine Conversation with Explicit Conversation Goal.
+Learning a Matching Model with Co-teaching for Multi-turn Response Selection in Retrieval-based Dialogue Systems.
+Learning to Abstract for Memory-augmented Conversational Response Generation.
+Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple References.
+The PhotoBook Dataset: Building Common Ground through Visually-Grounded Dialogue.
+Pre Training Methods for Dialog Context Representation Learning.
+A Large-Scale Corpus for Conversation Disentanglement.
+Self-Supervised Dialogue Learning.
+What should I ask? Using conversationally informative rewards for goal-oriented visual dialog..
+Observing Dialogue in Therapy: Categorizing and Forecasting Behavioral Codes.
+Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog.
+One Time of Interaction May Not Be Enough: Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues.
+Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset.
+Incremental Transformer with Deliberation Decoder for Document Grounded Conversations.
+Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations.
+Reinforced Dynamic Reasoning for Conversational Question Generation.
+Domain Adaptive Dialog Generation via Meta Learning.
+Know More about Each Other: Evolving Dialogue Strategy via Compound Assessment.
+Training Neural Response Selection for Task-Oriented Dialogue Systems.
+Improving Multi-turn Dialogue Modelling with Utterance ReWriter.
+Collaborative Dialogue in Minecraft.
+Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading.
+Fine-Grained Sentence Functions for Short-Text Conversation.
+Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good.
+Constrained Decoding for Neural NLG from Compositional Representations in Task-Oriented Dialogue.
+Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems.
+Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System.
+Improving Neural Conversational Models with Entropy-Based Data Filtering.
+Target-Guided Open-Domain Conversation.
+Gated Embeddings in End-to-End Speech Recognition for Conversational-Context Fusion.
+Memory Consolidation for Contextual Spoken Language Understanding with Dialogue Logistic Inference.
+Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study.
+Personalizing Dialogue Agents via Meta-Learning.
+Reading Turn by Turn: Hierarchical Attention Architecture for Spoken Dialogue Comprehension.
+A Working Memory Model for Task-oriented Dialog Response Generation.
+Boosting Dialog Response Generation.
+Implicit Discourse Relation Identification for Open-domain Dialogues.
+Modeling Semantic Relationship in Multi-turn Conversations with Hierarchical Latent Variables.
+Rationally Reappraising ATIS-based Dialogue Systems.
+MC^2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension.
+An adaptable task-oriented dialog system for stand-alone embedded devices.
+ConvLab: Multi-Domain End-to-End Dialog System Platform.
+FASTDial: Abstracting Dialogue Policies for Fast Development of Task Oriented Agents.
+ADVISER: A Dialog System Framework for Education & Research.
+Microsoft Icecaps: An Open-Source Toolkit for Conversation Modeling.
+Dialogue-Act Prediction of Future Responses based on Conversation History.
+Sentence Level Curriculum Learning for Improved Neural Conversational Models.
+2020
+A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking .
+Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards .
+Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation .
+Can You Put it All Together: Evaluating Conversational Agents\xe2\x80\x99 Ability to Blend Skills .
+ChartDialogs: Plotting from Natural Language Instructions .
+Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation .
+Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight .
+Dialogue Coherence Assessment Without Explicit Dialogue Act Labels .
+Dialogue-Based Relation Extraction .
+Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness .
+Diversifying Dialogue Generation with Non-Conversational Text .
+Don\xe2\x80\x99t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training .
+DoQA - Accessing Domain-Specific FAQs via Conversational QA .
+Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog .
+Dynamic Online Conversation Recommendation .
+Efficient Dialogue State Tracking by Selectively Overwriting Memory .
+End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2 .
+Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading .
+Fluent Response Generation for Conversational Question Answering .
+Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation .
+Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy .
+Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs .
+Grounding Conversations with Improvised Dialogues .
+History for Visual Dialog: Do we really need it? .
+Image-Chat: Engaging Grounded Conversations .
+KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation .
+Large Scale Multi-Actor Generative Dialog Modeling .
+Learning Dialog Policies from Weak Demonstrations .
+Learning Efficient Dialogue Policy from Demonstrations through Shaping .
+Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks .
+Learning to execute instructions in a Minecraft dialogue .
+Learning to Identify Follow-Up Questions in Conversational Question Answering .
+Meta-Reinforced Multi-Domain State Generator for Dialogue Systems .
+MIE: A Medical Information Extractor towards Medical Dialogues .
+More Diverse Dialogue Datasets via Diversity-Informed Data Collection 
+Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition .
+Multi-Domain Dialogue Acts and Response Co-Generation .
+MuTual: A Dataset for Multi-Turn Dialogue Reasoning .
+Negative Training for Neural Dialogue Response Generation .
+Neural Generation of Dialogue Response Timings .
+Paraphrase Augmented Task-Oriented Dialog Generation .
+PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable .
+SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing
+Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation .
+Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network .
+Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset .
+The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents .
+Towards Conversational Recommendation over Multi-Type Dialogs .
+Towards Emotion-aided Multi-modal Dialogue Act Classification .
+Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation .
+USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation .
+You Impress Me: Dialogue Generation via Mutual Persona Perception .
+Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking .
+Conversational Word Embedding for Retrieval-Based Dialog System .
+Crawling and Preprocessing Mailing Lists At Scale for Dialog Analysis .
+Designing Precise and Robust Dialogue Response Evaluators .
+Dialogue State Tracking with Explicit Slot Connection Modeling .
+Evaluating Dialogue Generation Systems via Response Selection .
+Learning an Unreferenced Metric for Online Dialogue Evaluation .
+Learning Low-Resource End-To-End Goal-Oriented Dialog for Fast and Reliable System Deployment .
+Modeling Long Context for Task-Oriented Dialogue State Generation .
+\xe2\x80\x9cNone of the Above\xe2\x80\x9d: Measure Uncertainty in Dialog Response Retrieval .
+Recursive Template-based Frame Generation for Task Oriented Dialog .
+Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations .
+Towards end-2-end learning for predicting behavior codes from spoken utterances in psychotherapy conversations .
+Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering .
+Video-Grounded Dialogues with Pretrained Generation Language Models .
+ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents .
+Conversation Learner - A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems .
+ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems .
+DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation .
+\xcf\x85BLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems .
+Non-Topical Coherence in Social Talk: A Call for Dialogue Model Enrichment .
+AAAI
+2019
+1. An Affect-Rich Neural Conversational Model with Biased Attention and Weighted CrossEntropy Loss  
+Peixiang Zhong (Nanyang Technological University)*; Di Wang (Nanyang Technological
+University); Chunyan Miao (NTU)
+2. Zero-Shot Adaptive Transfer for Conversational Language Understanding  
+Sungjin Lee (Microsoft Research)*; Rahul Jha (Microsoft)
+3. End-to-End Knowledge-Routed Relational Dialogue System for Automatic Diagnosis
+Lin Xu (Sun Yat-sen University); Qixian Zhou (Sun Yat-sen University)*; Ke Gong (Sun Yat-sen
+University ); Xiaodan Liang (Carnegie Mellon University); Jianheng Tang (Soochow University);
+Liang Lin (Sun Yat-sen University)
+3. Learning Personalized End-to-End Goal-Oriented Dialog  
+Liangchen Luo (Peking University)*; Wenhao Huang (Shanghai Discovering Investment); Qi Zeng
+(Peking University); Xu Sun (Peking University); Zaiqing Nie (Alibaba)
+4. Goal-oriented Dialogue Policy Learning from Failures  
+Keting Lu (School of Computer Science, University of Science and Technology of China)*; Shiqi
+Zhang (SUNY Binghamton); Xiaoping Chen (University of Science and Technology of China)
+6. Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses
+Ananya Sai B (Indian Institute of Technology Madras)*; Mithun Das Gupta (Microsoft,India);
+Mitesh M. Khapra (Indian Institute of Technology Madras); Mukundhan Srinivasan (NVIDIA)
+7.Learning to Align Question and Answer Utterances in Customer Service Conversation with
+Recurrent Pointer Networks
+Shizhu He (Institute of Automation, Chinese Academy of Sciences)*; Kang Liu (Institute of
+Automation, Chinese Academy of Sciences); Weiting An (Alibaba Group)
+8.Dialogue Generation: From Imitation Learning to Inverse Reinforcement Learning
+Ziming Li (University of Amsterdam)*; Julia Kiseleva (University of Amsterdam & UserSat.com);
+Maarten de Rijke (University of Amsterdam)
+9. DialogueRNN: An Attentive RNN for Emotion Detection in Conversations
+Navonil Majumder (IPN, Mexico); Soujanya Poria (Nanyang Technological University)*;
+Devamanyu Hazarika (NUS, Singapore); Rada Mihalcea (University of Michigan); Erik Cambria
+(Nanyang Technological University, Singapore); Alexander Gelbukh (Instituto Politécnico
+Nacional)
+10. Generating Multiple Diverse Responses for Short-Text Conversation  
+Jun Gao (Soochow University); Wei Bi (TBD)*; Xiaojiang Liu (Tencent AI Lab); Junhui Li (Soochow
+University); Shuming Shi (Tencent AI Lab)
+11. A Deep Sequential Model for Discourse Parsing on Multi-Party Dialogues
+Zhouxing Shi (Tsinghua University); Minlie Huang ()*
+2020
+1.Generating Persona Consistent Dialogues by Exploiting Natural Language Inference.
+  2.RefNet: A Reference-aware Network for Background Based Conversation.
+  3.DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue.
+  4.Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation.
+ 5. MTSS: Learn from Multiple Domain Teachers and Become a Multi-domain Dialogue Expert.
+ 6. Modeling Dialogues with Hashcode Representations: A Nonparametric Approach.
+ 7. Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation.
+  8.An Empirical Study of Content Understanding in Conversational Question Answering Based Conversation.
+  9.Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering.
+ 10. Visual Dialogue State Tracking for Question Generation Dialog.
+ 11.End-to-End Dialog System Framework with Modular Supervision.
+ 12. Attention-Informed Mixed-Language Training for Zero-shot Cross-lingual Task-oriented Dialogue Systems.
+ 13. Multi-Speaker Video Dialog with Frame-Level Temporal Localization.
+14.What Do You Mean `Why?': Resolving Sluices in Conversations
+ 15.Bayes-Adaptive Monte-Carlo Planning and Learning for Goal-Oriented Dialogues.
+ 16.Guiding attention in Sequence-to-sequence models for Dialogue Act prediction.
+ 17.DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act Recognition and Sentiment.
+ 18. Who did They Respond to? Conversation Structure Modeling using Masked Hierarchical Transformer.
+ 19. Dialog State Tracking with Reinforced Data Augmentation.
+ 20. Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from.
+ 21. Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation.
+ 22.Predictive Engagement: An Efficient Metric for Automatic Evaluation of Open-Domain Dialogue Systems.
+ 23. A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data.
+ 24. Entrainment2Vec: Embedding Entrainment for Multi-party Dialogues.
+ 25.Filling Conversation Ellipsis for Better Social Dialog Understanding.
+ 26.Masking Orchestration: Multi-task Pretraining for Multi-role Dialogue Representation Learning.
+ 27. Task-Oriented Dialog Systems that Consider Multiple Appropriate Responses under the Same Context.
+ 28.Sentiment Classification in Customer Service Dialogue with Topic-aware Multi-task Learning.
+ 29. Modality-Balanced Models for Visual Dialogue.
+ 30.DMRM: A Dual-channel Multi-hop Reasoning Model for Visual Dialog.
+ 31.Mask & Focus: Conversation Modelling by Learning Concepts.
+ 32. MA-DST: Multi-Attention-Based Scalable Dialog State Tracking.
+ 33.Hierarchical Reinforcement Learning for Open-Domain Dialog.
+ 34. ALOHA: Artificial Learning of Human Attributes for Dialogue Agents.
+ 35. Towards Hands-free Visual Dialog Interactive Recommendation.
+ 36. End-to-End Trainable Non-Collaborative Dialog System.
+ 37. History-adaption Knowledge Incorporation Mechanism for Multi-turn Dialogue System.
+ 38.Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks.
+ 39. Towards Scalable Multi-Domain Conversational Agents:The Schema-Guided Dialogue Dataset.
+ 40.MALA: Cross-Domain Dialogue Generation with Action Learning.
+ 41. Relevance-Promoting Language Model for Short-Text Conversation.
+ 
+2021
+1. Structured Co-Reference Graph Attention for Video-Grounded Dialogue .
+ 2. Topic-Oriented Spoken Dialogue Summarization for Customer Service with Saliency-Aware .
+ 3. Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation .
+ 4. Reinforced History Backtracking for Conversational Question Answering .
+ 5. Quantum-Inspired Neural Network for Conversational Emotion Recognition .
+ 6. Reasoning in Dialog: Improving Response Generation by Context Reading Comprehension .
+ 7. UBAR: Towards Fully End-to-End Task-Oriented Dialog System with GPT-2: Yunyi Yang, .
+ 8.DialogXL: All-in-One XLNet for Multi-Party Conversation Emotion Recognition .
+ 9. Exploring Auxiliary Reasoning Tasks for Task-Oriented Dialog Systems with Meta Cooperative .
+ 10.Learning from My Friends: Few-Shot Personalized Conversation Systems via Social Networks .
+ 11. Interpretable NLG for Task-Oriented Dialogue Systems with Heterogeneous Rendering .
+ 12. A Student-Teacher Architecture for Dialog Domain Adaptation under the Meta-Learning .
+ 13.Unsupervised Learning of Deterministic Dialogue Structure with Edge-Enhanced Graph AutoEncoder .
+ 14.Multi-View Feature Representation for Dialogue Generation with Bidirectional Distillation .
+ 15. Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled  Retrieval-Based Dialogues .
+ 16. Unsupervised Abstractive Dialogue Summarization for Tete-a-Tetes  Dialogue .
+ 17. Automatic Curriculum Learning with Over-Repetition Penalty for Dialogue Policy Learning .
+ 18. NaturalConv: A Chinese Dialogue Dataset Towards Multi-Turn Topic-Driven Conversation .
+ 19. Conversational Neuro-Symbolic Commonsense Reasoning .
+ 20. Keyword-Guided Neural Conversational Model .
+ 21. DDRel: A New Dataset for Interpersonal Relation Classification in Dyadic Dialogues .
+ 28. Dialog Policy Learning for Joint Clarification and Active Learning Queries .
+ 29. Topic-Aware Multi-Turn Dialogue Modeling .
+ 30.Stylized Dialogue Response Generation Using Stylized Unpaired Texts  Conversation Generation .
+ 31. Co-GAT: A Co-Interactive Graph Attention Network for Joint Dialog Act Recognition and .
+ 32.DialogBERT: Discourse-Aware Response Generation via Learning to Recover and Rank .
+ 33. Open Domain Dialogue Generation with Latent Images .
+ 34. MultiTalk: A Highly-Branching Dialog Testbed for Diverse Conversations .
+ 35. Converse, Focus and Guess - Towards Multi-Document Driven Dialogue .
+EMNLP
+2019
+1.A Discrete CVAE for Response Generation on Short-Text Conversation
+2.A Practical Dialogue-Act-Driven Conversation Model for Multi-Turn Response Selection
+3.A Semi-Supervised Stable Variational Network for Promoting Replier-Consistency in Dialogue Generation
+4.Adaptive Parameterization for Neural Dialogue Generation
+5.Answer-guided and Semantic Coherent Question Generation in Open-domain Conversation
+6.Are You for Real? Detecting Identity Fraud via Dialogue Interactions
+7.Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack
+8.Building Task-Oriented Visual Dialog Systems Through Alternative Optimization Between Dialog Policy and Language Generation
+9.CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases
+10.Data-Efficient Goal-Oriented Conversation with Dialogue Knowledge Transfer Networks
+11.Dialog Intent Induction with Deep Multi-View Clustering
+12.DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
+13.Dual Attention Networks for Visual Reference Resolution in Visual Dialog
+14.DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs
+15.Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph
+16.Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever
+17.GECOR: An End-to-End Generative Ellipsis and Co-reference Resolution Model for Task-Oriented Dialogue
+18.Guided Dialog Policy Learning: Reward Estimation for Multi-Domain Task-Oriented Dialog
+19.Hierarchy Response Learning for Neural Conversation Generation
+20.How to Build User Simulators to Train RL-based Dialog Systems
+21.Improving Open-Domain Dialogue Systems via Multi-Turn Incomplete Utterance Restoration
+22.Knowledge Aware Conversation Generation with Explainable Reasoning on Augmented Graphs
+23.Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations
+24.Learning to Ask for Conversational Machine Learning
+25.Learning to Infer Entities, Properties and their Relations from Clinical Conversations
+26.Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
+27.Multi-Granularity Representations of Dialog
+28.Multi-task Learning for Conversational Question Answering Over a Large-Scale Knowledge Base
+29.MultiDoGO: Multi-Domain Goal-Oriented Dialogues
+30.Neural Conversation Recommendation with Online Interaction Modeling
+31.Recommendation as a Communication Game: Self-Supervised Role-Playing for Goal-oriented Dialogue
+32.Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework
+33.Scalable and Accurate Dialogue State Tracking via Hierarchical Sequence Generation
+34.Task-Oriented Conversation Generation Using Heterogeneous Memory Networks
+35.TaskMaster Dialog Corpus: Toward a Realistic and Diverse Dataset
+36.Towards Knowledge-Based Recommender Dialog System
+37.Trouble on the Horizon: Forecasting the Derailment of Online Conversations as they Develop
+38.Unsupervised Context Rewriting for Open Domain Conversation
+39.Using Customer Service Dialogues for Satisfaction Analysis with Context-Assisted Multiple Instance Learning
+40.Variational Hierarchical User-based Conversation Model
+41.Video Dialog via Progressive Inference and Cross-Transformer
+42.What You See is What You Get: Visual Pronoun Coreference Resolution in Conversations
+43.Who Is Speaking to Whom? Learning to Identify Utterance Addressee in Multi-Party Conversations
+44.Answering Conversational Questions on Structured Data without Logical Forms
+45.Automatically Learning Data Augmentation Policies for Dialogue Tasks
+46.Context-Aware Conversation Thread Detection in Group Chat
+47.Dependency Parsing for Spoken Dialog Systems
+48.Dirichlet Latent Variable Hierarchical Recurrent Encoder-Decoder in Dialogue Generation
+49.Improving Visual Dialog by Learning to Answer Diverse Questions
+50.Modeling Multi-Action Policy for Task-Oriented Dialogues
+51.Multi-task Learning for Natural Language Generation in Task-Oriented Dialogue
+52.Sampling Matters! An Empirical Study of Negative Sampling Strategies for Learning of 53.Matching Models in Retrieval-based Dialogue Systems
+54.Semi-Supervised Bootstrapping of Dialogue State Trackers for Task-Oriented Modelling
+55.Span-based Hierarchical Semantic Parsing for Task-Oriented Dialog
+56.Zero-shot Cross-lingual Dialogue Systems with Transferable Latent Variables
+57.Chameleon: A Language Model Adaptation Toolkit for Automatic Speech Recognition of Conversational Speech
+58.Gunrock: A Social Bot for Complex and Engaging Long Conversations
+59.LIDA: Lightweight Interactive Dialogue Annotator
+60.Memory Grounded Conversational Reasoning
+61.PolyResponse: A Rank-based Approach to Task-Oriented Dialogue with Application in Restaurant Search and Booking
+62.PyOpenDial: A Python-based Domain-Independent Toolkit for Developing Spoken Dialogue Systems with Probabilistic Rules
+2020
+1.Structured Attention for Unsupervised Dialogue Structure Induction. Liang Qiu, Yizhou Zhao, Weiyan Shi, Yuan Liang, Feng Shi, Tao Yuan, Zhou Yu and Song-Chun Zhu.
+2.Towards Persona-Based Empathetic Conversational Models. Peixiang Zhong, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao.
+3.Multi-turn Response Selection using Dialogue Dependency Relations. Qi Jia, Yizhu Liu, Siyu Ren, Kenny Zhu and Haifeng Tang.
+4.MedDialog: Large-scale Medical Dialogue Datasets. Guangtao Zeng, Wenmian Yang, Zeqian Ju, Yue Yang, Sicheng Wang, Ruisi Zhang, Meng Zhou, Jiaqi Zeng, Xiangyu Dong, Ruoyu Zhang, Hongchao Fang, Penghui Zhu, Shu Chen and Pengtao Xie.
+ 
+5.The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection. Zibo Lin, Deng Cai, Yan Wang, Xiaojiang Liu, Haitao Zheng and Shuming Shi.
+6.Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning. Haochen Liu, Wentao Wang, Yiqi Wang, Hui Liu, Zitao Liu and Jiliang Tang. 
+7.VD-BERT: A Unified Vision and Dialog Transformer with BERT. Yue Wang, Shafiq Joty, Michael Lyu, Irwin King, Caiming Xiong and Steven C.H. Hoi. 
+8.Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations. Taichi Ishiwatari, Yuki Yasuda, Taro Miyazaki and Jun Goto. 
+9.Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness. Hyunwoo Kim, Byeongchang Kim and Gunhee Kim. 
+10.Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data. Rongsheng Zhang, Yinhe Zheng, Jianzhi Shao, Xiaoxi Mao, Yadong Xi and Minlie Huang.
+11.Information Seeking in the Spirit of Learning: A Dataset for Conversational Curiosity. Pedro Rodriguez, Paul Crook, Seungwhan Moon and Zhiguang Wang.
+12.Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization. Jiaao Chen and Diyi Yang.
+13.Where Are You? Localization from Embodied Dialog. Meera Hahn, Jacob Krantz, Dhruv Batra, Devi Parikh, James Rehg, Stefan Lee and Peter Anderson.
+14.Task-Completion Dialogue Policy Learning via Monte Carlo Tree Search with Dueling Network. Sihan Wang, kaijie zhou, Kunfeng Lai and Jianping Shen.
+15.AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue. Jaehun Jung, Bokyung Son and Sungwon Lyu.
+16.Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation. Emily Dinan, Angela Fan, Adina Williams, Jack Urbanek, Douwe Kiela and Jason Weston.
+17.Continuity of Topic, Interaction, and Query: Learning to Quote in Online Conversations. Lingzhi Wang, Jing Li, Xingshan Zeng, Haisong Zhang and Kam-Fai Wong.
+18.Amalgamating Knowledge from Two Teachers for Task-oriented Dialogue System with Adversarial Training. Wanwei He, Min Yang, Rui Yan, Chengming Li, Ying Shen and Ruifeng Xu.
+19.Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking. Yexiang Wang, Yi Guo and Siqi Zhu.
+20.Pro铿乴e Consistency Identi铿乧ation for Open-domain Dialogue Agents. Haoyu Song, Yan Wang, Wei-Nan Zhang, Zhengyu Zhao, Ting Liu and Xiaojiang Liu.
+21.Knowledge-Grounded Dialogue Generation with Pre-trained Language Models. Xueliang Zhao, wei wu, Can Xu, Chongyang Tao, Dongyan Zhao and Rui Yan.
+22.BiST: Bi-directional Spatio-Temporal Reasoning for Video-Grounded Dialogues. Hung Le, Doyen Sahoo, Nancy Chen and Steven C.H. Hoi.
+23.UniConv: A Unified Conversational Neural Architecture for Multi-domain Task-oriented Dialogues. Hung Le, Doyen Sahoo, Chenghao Liu, Nancy Chen and Steven C.H. Hoi.
+ 24.GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems. Shiquan Yang, Rui Zhang and Sarah Erfani.
+ 25.Conversational Semantic Parsing. Armen Aghajanyan, Jean Maillard, Akshat Shrivastava, Keith Diedrick, Michael Haeger, Haoran Li, Yashar Mehdad, Veselin Stoyanov, Anuj Kumar, Mike Lewis and Sonal Gupta.
+ 26.TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue. Chien-Sheng Wu, Steven C.H. Hoi, Richard Socher and Caiming Xiong.
+ 27.Cross Copy Network for Dialogue Generation. Changzhen Ji, Xin Zhou, Yating Zhang, Xiaozhong Liu, Changlong Sun, Conghui Zhu and Tiejun Zhao.
+28.Conversational Semantic Parsing for Dialog State Tracking. Jianpeng Cheng, Devang Agrawal, H茅ctor Mart铆nez Alonso, Shruti Bhargava, Joris Driesen, Federico Flego, Dain Kaplan, Dimitri Kartsaklis, Lin Li, Dhivya Piraviperumal, Jason D Williams, Hong Yu, Diarmuid 脫 S茅aghdha and Anders Johannsen.
+29.GRADE: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems. Lishan Huang, Zheng Ye, Jinghui Qin, Liang Lin and Xiaodan Liang.
+30.Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading. Yifan Gao, Chien-Sheng Wu, Jingjing Li, Shafiq Joty, Steven C.H. Hoi, Caiming Xiong, Irwin King and Michael Lyu.
+31.Probing Task-Oriented Dialogue Representation from Language Models. Chien-Sheng Wu and Caiming Xiong.
+32.Dialogue Response Ranking Training with Large-Scale Human Feedback Data. Xiang Gao, Yizhe Zhang, Michel Galley, Chris Brockett and Bill Dolan.
+33.RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling. Jun Quan, Shian Zhang, Qian Cao, Zizhong Li and Deyi Xiong.
+34.Like hiking? You probably enjoy nature: Persona-grounded Dialog with Commonsense Expansions. Bodhisattwa Prasad Majumder, Harsh Jhamtani, Taylor Berg-Kirkpatrick and Julian McAuley.
+35.MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems. Zhaojiang Lin, Andrea Madotto, Genta Indra Winata and Pascale Fung.
+36.Online Conversation Disentanglement with Pointer Networks. Tao Yu and Shafiq Joty.
+37.Personal Information Leakage Detection in Conversations. Qiongkai Xu, Lizhen Qu, Zeyu Gao and Gholamreza Haffari.
+38.Response Selection for Multi-Party Conversations with Dynamic Topic Tracking. Weishi Wang, Steven C.H. Hoi and Shafiq Joty.
+39.Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts. Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair and Raquel Fern谩ndez. 
+40.Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation. Kang Min Yoo, Hanbit Lee, Franck Dernoncourt, Trung Bui, Walter Chang and Sang-goo Lee. 
+41.doc2dial: A Goal-Oriented Document-Grounded Dialogue Dataset. Song Feng, Hui Wan, Chulaka Gunasekara, Siva Patel, Sachindra Joshi and Luis Lastras. 
+42.Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness. Reina Akama, Sho Yokoi, Jun Suzuki and Kentaro Inui. 
+43.Parallel Interactive Networks for Multi-Domain Dialogue State Generation. Junfan Chen, Richong Zang, Yongyi Mao and Jie Xu. 
+44.Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation. Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu and Jie Zhou. 
+45.Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems. Jan Deriu, Don Tuggener, Pius von D盲niken, Jon Ander Campos, Alvaro Rodrigo, Thiziri Belkacem, Aitor Soroa, Eneko Agirre and Mark Cieliebak. 
+46.Human-centric dialog training via offline reinforcement learning. Natasha Jaques, Judy Hanwen Shen, Asma Ghandeharioun, Craig Ferguson, Agata Lapedriza, Noah Jones, Shixiang Gu and Rosalind Picard. 
+47.Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding. Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni and Julian McAuley. 
+48.Template Guided Text Generation for Task-Oriented Dialogue. Mihir Kale and Abhinav Rastogi. 
+49.INSPIRED: Toward Sociable Recommendation Dialog Systems. Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, Weiyan Shi and Zhou Yu. 
+50.A Visually-grounded First-person Dialogue Dataset with Verbal and Non-verbal Responses. Hisashi Kamezawa, Noriki Nishida, Nobuyuki Shimizu, Takashi Miyazaki and Hideki Nakayama. 
+51.Counterfactual Off-Policy Training for Neural Dialogue Generation. Qingfu Zhu, Wei-Nan Zhang, Ting Liu and William Yang Wang. 
+52.Regularizing Dialogue Generation by Imitating Implicit Scenarios. Shaoxiong Feng, Xuancheng Ren, Hongshen Chen, Bin Sun, Kan Li and Xu SUN. 
+53.Generating Dialogue Responses from a Semantic Latent Space. Wei-Jen Ko, Avik Ray, Yilin Shen and Hongxia Jin. 
+54.A Probabilistic End-To-End Task-Oriented Dialog Model with Latent Belief States towards Semi-Supervised Learning. Yichi Zhang, Zhijian Ou, Min Hu and Junlan Feng. 
+55.CHARM: Inferring Personal Attributes from Conversations. Anna Tigunova, Andrew Yates, Paramita Mirza and Gerhard Weikum. 
+56.Coupled Hierarchical Transformer for Stance-Aware Rumor Verification in Social Media Conversations. Jianfei Yu, Jing Jiang, Ling Min Serena Khoo, Hai Leong Chieu and Rui Xia.
+ 57.Semantic Role Labeling Guided Multi-turn Dialogue ReWriter. Kun Xu, Haochen Tan, Linfeng Song, Han Wu, Haisong Zhang, Linqi Song and Dong Yu.
+ 58.Sound Natural: Content Rephrasing in Dialog Systems. Arash Einolghozati, Anchit Gupta, Keith Diedrick and Sonal Gupta.
+ 59.Conversational Document Prediction to Assist Customer Care Agents. Jatin Ganhotra, Haggai Roitman, Doron Cohen, Nathaniel Mills, Chulaka Gunasekara, Yosi Mass, Sachindra Joshi, Luis Lastras and David Konopnicki.
+ 60.How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue. Henry Elder, Alexander O'Connor and Jennifer Foster.
+ 61.Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging. Semih Yavuz, Kazuma Hashimoto, Wenhao Liu, Nitish Shirish Keskar, Richard Socher and Caiming Xiong.
+ 62.Neural Conversational QA: Learning to Reason vs Exploiting Patterns. Nikhil Verma, Abhishek Sharma, Dhiraj Madan, Danish Contractor, Harshit Kumar and Sachindra Joshi.
+NIPS
+2019
+1.Approximating Interactive Human Evaluation with Self-Play for Open-Domain Dialog Systems Asma Ghandeharioun, Judy Hanwen Shen, Natasha Jaques, Craig Ferguson, Noah Jones, Agata Lapedriza, Rosalind Picard
+2020
+1.Zero-Resource Knowledge-Grounded Dialogue Generation Linxiao Li, Can Xu, Wei Wu, YUFAN ZHAO, Xueliang Zhao, Chongyang Tao
+2.Dialog without Dialog Data: Learning Visual Dialog Agents from VQA Data Michael Cogswell, Jiasen Lu, Rishabh Jain, Stefan Lee, Devi Parikh, Dhruv Batra
+3.A Simple Language Model for Task-Oriented Dialogue Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher
+ICML
+2019
+1.Dual Visual Attention Network for Visual Dialog: Dan Guo, Hui Wang, Meng Wang
+2.Exploiting Persona Information for Diverse Generation of Conversational Responses: Haoyu Song, Wei-Nan Zhang, Yiming Cui, Dong Wang, Ting Liu
+3.Generative Visual Dialogue System via Weighted Likelihood Estimation: Heming Zhang, Shalini Ghosh, Larry Heck, Stephen Walsh, Junting Zhang, Jie Zhang, C.-C. Jay Kuo
+5.GSN: A Graph-Structured Network for Multi-Party Dialogues: Wenpeng Hu, Zhangming Chan, Bing Liu, Dongyan Zhao, Jinwen Ma, Rui Yan.
+6.Learning to Select Knowledge for Response Generation in Dialog Systems: Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu.
+7.Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems: Fei Mi, Minlie Huang, Jiyong Zhang, Boi Faltings.
+8.Modeling both Context- and Speaker-Sensitive Dependence for Emotion Detection in Multi-speaker Conversations: Dong Zhang, Liangqing Wu, Changlong Sun, Shoushan Li, Qiaoming Zhu, Guodong Zhou.
+9.Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis: Yazhou Zhang, Qiuchi Li, Dawei Song, Peng Zhang, Panpan Wang.
+10.Embodied Conversational AI Agents in a Multi-modal Multi-agent Competitive Dialogue: Rahul Divekar, Xiangyang Mou, Lisha Chen, Ma\xc3\xadra Gatti de Bayser, Melina Alberio Guerra, Hui Su.
+2020
+none
+2021
+none
+ICDM
+2019
+1. An Efficient Policy Gradient Method for Conditional Dialogue Generation Lei Cai and Shuiwang Ji
+2.Dense Semantic Matching Network for Multi-turn Conversation Yongrui Li and Jun Yu
+2020
+none
+CIKM
+2019
+1. Conversational Product Search Based on Negative Feedback Keping Bi, Qingyao Ai, Yongfeng Zhang, W. Bruce Croft So in this paper, we propose a conversational paradigm for product search driven by non-relevant items, based on which fine-grained feedback is collected and utilized to show better results in the next iteration. 
+2. Enhancing Conversational Dialogue Models with Grounded Knowledge Wen Zheng, Ke Zhou Therefore, in this paper, we aim to bridge the gap by first extensively evaluating various types of state-of-the-art knowledge-grounded conversational models, including recurrent neural network based, memory networks based, and Transformer based models. 
+3. Look before you Hop: Conversational Question Answering over Knowledge Graphs Using Judicious Context Expansion Philipp Christmann, Rishiraj Saha Roy, Abdalghani Abujabal, Jyotsna Singh, Gerhard Weikum As a solution, we develop CONVEX, an unsupervised method that can answer incomplete questions over a knowledge graph (KG) by maintaining conversation context using entities and predicates seen so far and automatically inferring missing or ambiguous pieces for follow-up questions. 
+4. MusicBot: Evaluating Critiquing-Based Music Recommenders with Conversational Interaction Yucheng Jin, Wanling Cai, Li Chen, Nyi Nyi Htun, Katrien Verbert Therefore, we present MusicBot, a chatbot for music recommendations, featured with two typical critiquing techniques, user-initiated critiquing (UC) and system-suggested critiquing (SC). 
+5. Offline and Online Satisfaction Prediction in Open-Domain Conversational Systems Jason Ingyu Choi, Ali Ahmadvand, Eugene Agichtein To accomplish this goal, we propose a conversational satisfaction prediction model specifically designed for open-domain spoken conversational agents, called ConvSAT. 
+6. A Hybrid Retrieval-Generation Neural Conversation Model Liu Yang, Junjie Hu, Minghui Qiu, Chen Qu, Jianfeng Gao, W. Bruce Croft, Xiaodong Liu, Yelong Shen, Jingjing Liu In this paper, we propose a hybrid neural conversation model that combines the merits of both response retrieval and generation methods. 
+7. A Latent-Constrained Variational Neural Dialogue Model for Information-Rich Responses Yanan Zheng, Yan Wang, Lijie Wen, Jianmin Wang To address it, we initially propose the Latent-Constrained Variational Neural Dialogue Model (LC-VNDM). It follows a variational neural dialogue framework, with an utterance encoder, a context encoder and a response decoder hierarchically organized. 
+8. Legal Summarization for Multi-role Debate Dialogue via Controversy Focus Mining and Multi-task Learning Xinyu Duan, Yating Zhang, Lin Yuan, Xin Zhou, Xiaozhong Liu, Tianyi Wang, Ruocheng Wang, Qiong Zhang, Changlong Sun, Fei Wu In this work, we propose an innovative end-to-end model to address this problem. 
+9. ConCET: Entity-Aware Topic Classification for Open-Domain Conversational Agents Ali Ahmadvand, Harshita Sahijwani, Jason Ingyu Choi, Eugene Agichtein To complement our model, we propose a simple and effective method for generating synthetic training data, to augment the typically limited amounts of labeled training data, using commonly available knowledge bases as to generate additional labeled utterances. 
+10. Attentive History Selection for Conversational Question Answering Chen Qu, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W. Bruce Croft, Mohit Iyyer In this work, we propose a novel solution for ConvQA that involves three aspects. 
+11.Modeling Long-Range Context for Concurrent Dialogue Acts Recognition Yue Yu, Siyao Peng, Grace Hui Yang In this paper, we present an adapted Convolutional Recurrent Neural Network (CRNN) which models the interactions between utterances of long-range context. 
+12. Query-bag Matching with Mutual Coverage for Information-seeking Conversations in E-commerce Zhenxin Fu, Feng Ji, Wenpeng Hu, Wei Zhou, Dongyan Zhao, Haiqing Chen, Rui Yan Inspired by such opinion, we propose a query-bag matching model which mainly utilizes the mutual coverage between query and bag and measures the degree of the content in the query mentioned by the bag, and vice versa. 
+ 
+2020
+1.Ranking Enhanced Dialogue Generation\tChangying Hao, Liang Pang, Yanyan Lan, Fei Sun, Jiafeng Guo and Xueqi Cheng
+2.Learning to Detect Relevant Contexts and Knowledge for Response Selection in Retrieval-based Dialogue Systems Kai Hua, Zhiyuan Feng, Chongyang Tao, Rui Yan and Lu Zhang
+3.Query-to-Session Matching: Do NOT Forget History and Future during Response Selection for Multi-Turn Dialogue Systems  Zhenxin Fu, Shaobo Cui, Feng Ji, Ji Zhang, Haiqing Chen, Dongyan Zhao and Rui Yan
+SIGIR
+2019
+1.Asking Clarifying Questions in Open-Domain Information-Seeking Conversations
+2.conversational search | clarifying questions | ad-hoc retrieval
+3.Context-Aware Intent Identification in Email Conversations
+4.EnsembleGAN: Adversarial Learning for Retrieval-Generation Ensemble Model on Short-Text Conversation
+5.Retrieval-based dialogue systems | Generative-based dialogue systems | Ensemble model
+6.User Attention-guided Multimodal Dialog Systems
+7.Multimodal Dialog Systems | Multimodal Response Generation | Multimodal Utterance Encoder | Taxonomy-attribute Combined Tree | Attribute-level User Attention
+8.Video Dialog via Multi-Grained Convolutional Self-Attention Context Networks
+9.video dialog | multi-grained self-attention | conversation | convolution
+10.History Modeling for Conversational Question Answering
+11.Towards Contextual Dialogue Act Classification for Open-Domain Conversational Agents
+12.Informing the Design of Conversational IR Systems: Framework and Result Presentation
+2020
+1.Neural Representation Learning for Clarification in Conversational Search
+2.DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation
+3.What If Bots Feel Moods? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks
+4.Open-Retrieval Conversational Question Answering
+5.Expressions of Style in Information Seeking Conversation with an Agent
+6.Query Resolution for Conversational Search with Limited Supervision
+7.Summarizing and Exploring Tabular Data in Conversational Search
+8.CAsT-19: A Dataset for Research on Conversational Information Seeking
+9.Improving Contextual Language Models for Response Retrieval in Multi-Turn Conversation
+10.Topic Propagation in Conversational Search
+11.An Analysis of Mixed Initiative and Collaboration in Information-Seeking Dialogues
+12.KLOOS: KL Divergence-based Out-of-Scope Intent Detection in Human-to-Machine Conversations
+13.Few-Shot Generative Conversational Query Rewriting
+14.Agent Dialogue: A Platform for Conversational Information Seeking Experimentation
+15.Conversational Question Answering over Passages by Leveraging Word Proximity Networks
+16.Macaw: An Extensible Conversational Information Seeking Platform
+17.Incorporating User Feedback in Conversational Question Answering over Heterogeneous Web Sources
+NAACL
+     2019
+1.A Dynamic Speaker Model for Conversational Interactions
+2.Acoustic-to-Word Models with Conversational Context Information
+3.Adaptation of Hierarchical Structured Models for Speech Act Recognition in Asynchronous Conversation
+4.Affect-Driven Dialog Generation
+5.CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog
+6.Conversation Initiation by Diverse News Contents Introduction
+7.Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues
+8.Cross-lingual Transfer Learning for Multilingual Task Oriented Dialog
+9.Dialogue Act Classification with Context-Aware Self-Attention
+10.Disentangling Language and Knowledge in Task Oriented Dialogs
+11.Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent
+12.Evaluating Coherence in Dialogue Systems using Entailment
+13.Improving Dialogue State Tracking by Discerning the Relevant Context
+14.Joint Multiple Intent Detection and Slot Labeling for Goal-Oriented Dialog
+15.Linguistically-Informed Specificity and Semantic Plausibility for Dialog Generation
+16.Microblog Hashtag Generation via Encoding Conversation Contexts
+17.Multi-Level Memory for Task Oriented Dialogs
+18.Multimodal Deception Detection in Dialogues
+19.Outlier Detection for Improved Data Quality and Diversity in Dialog Systems
+20.Recovering dropped pronouns in Chinese conversations via modeling their referents
+21.Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models
+22.Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory
+23.The World in My Mind: Visual Dialog with Adversarial Multi-modal Feature Encoding
+24.Unsupervised Dialog Structure Learning
+25.What do entity-centric models learn? Insights from entity linking in multi-party dialogue
+26.What makes a good conversation? How controllable attributes affect human judgments
+27.Are the tools up to the task? An evaluation of commercial dialog tools in developing 28.conversational enterprise-grade dialog systems
+29.Development and Deployment of a Large-Scale Dialog-based Intelligent Tutoring System
+30.Fast Prototyping a QA System for Comprehending Symptom Monitoring Information in Nurse-Patient Conversations
+31.Scaling Multi-Domain Dialogue State Tracking via Query Reformulation
+32.A Research Platform for Multi-Robot Dialogue with Humans
+33.Chat-crowd: A Dialog-based Platform for Visual Layout Composition
+
+2021
+1.Self-Supervised Contrastive Learning for Efficient User Satisfaction Prediction in Conversational Agents
+2.Did they answer? Subjective acts and intents in conversational discourse
+3.MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization
+4.Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs
+5.CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems
+6.Open-Domain Question Answering Goes Conversational via Question Rewriting
+7.Hierarchical Transformer for Task Oriented Dialog Systems
+8.Adding Chit-Chat to Enhance Task-Oriented Dialogues
+9.Bot-Adversarial Dialogue for Safe Conversational Agents
+10.Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog
+11.Imperfect also Deserves Reward: Multi-Level and Sequential Reward Modeling for Better Dialog Management
+12.Leveraging Slot Descriptions for Zero-Shot Cross-Domain Dialogue StateTracking
+13.Action-Based Conversations Dataset: A Corpus for Building More In-Depth Task-Oriented Dialogue Systems
+14.CREAD: Combined Resolution of Ellipses and Anaphora in Dialogues
+15.Controlling Dialogue Generation with Semantic Exemplars
+16.Knowledge-Driven Slot Constraints for Goal-Oriented Dialogue Systems
+17.\xe2\x80\x9cNice Try, Kiddo\xe2\x80\x9d: Investigating Ad Hominems in Dialogue Responses
+18.Human-like informative conversations: Better acknowledgements using conditional mutual information
+19.A Simple and Efficient Multi-Task Learning Approach for Conditioned Dialogue Generation
+20.A Comparative Study on Schema-Guided Dialogue State Tracking
+21.Ensemble of MRR and NDCG models for Visual Dialog
+22.Fast and Scalable Dialogue State Tracking with Explicit Modular Decomposition
+23.Augmenting Knowledge-grounded Conversations with Sequential Knowledge Transition
+24.Spoken Language Understanding for Task-oriented Dialogue Systems with Augmented Memory Networks
+25.Clipping Loops for Sample-Efficient Dialogue Policy Optimisation
+26.You Sound Like Someone Who Watches Drama Movies: Towards Predicting Movie Preferences from Conversational Interactions
+27.Fine-grained Post-training for Improving Retrieval-based Dialogue Systems
+28.DiSCoL: Toward Engaging Dialogue Systems through Conversational Line Guided Response Generation
+29.Alexa Conversations: An Extensible Data-driven Approach for Building Task-oriented Dialogue Systems
+30.Pretrain-Finetune Based Training of Task-Oriented Dialogue Systems in a Real-World Setting
+31.Autocorrect in the Process of Translation \xe2\x80\x94 Multi-task Learning Improves Dialogue Machine Translation
+32.Optimizing NLU Reranking Using Entity Resolution Signals in Multi-domain Dialog Systems
+33. Entity Resolution in Open-domain Conversations
+ LREC
+2020
+1.Adjusting Image Attributes of Localized Regions with Low-level Dialogue.Tzu-Hsiang Lin, Alexander Rudnicky, Trung Bui, Doo Soon Kim and Jean Oh
+2.Alignment Annotation for Clinic Visit Dialogue to Clinical Note Sentence Language Generation.Wen-wai Yim, Meliha Yetisgen, Jenny Huang and Micah Grossman
+3.MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines.Mihail Eric, Rahul Goel, Shachi Paul, Abhishek Sethi, Sanchit Agarwal, Shuyang Gao, Adarsh Kumar, Anuj Goyal, Peter Ku and Dilek Hakkani-Tur
+4.A Comparison of Explicit and Implicit Proactive Dialogue Strategies for Conversational Recommendation.Matthias Kraus, Fabian Fischbach, Pascal Jensen and Wolfgang Minker
+5.Conversational Question Answering in Low Resource Scenarios: A Dataset and Case Study for Basque.Arantxa Otegi, Aitor Agirre, Jon Ander Campos, Aitor Soroa and Eneko Agirre
+6.Construction and Analysis of a Multimodal Chat-talk Corpus for Dialog Systems Considering Interpersonal Closeness.Yoshihiro Yamazaki, Yuya Chiba, Takashi Nose and Akinori Ito
+7.BLISS: An Agent for Collecting Spoken Dialogue data about Health and Well-being.Jelte van Waterschoot, Iris Hendrickx, Arif Khan, Esther Klabbers, Marcel de Korte, Helmer Strik, Catia Cucchiarini and Mari\xc3\xabt Theune
+8.The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service.Meng Chen, Ruixue Liu, Lei Shen, Shaozu Yuan, Jingyan Zhou, Youzheng Wu, Xiaodong He and Bowen Zhou
+9."Cheese!": a corpus of face-to-face French interactions. A case study for analyzing smiling and conversational humor.B\xc3\xa9atrice Priego-Valverde, Brigitte BIGI and Mary Amoyal
+10.SpiCE: A New Open-Access Corpus of Conversational Bilingual Speech in Cantonese and English.Khia Johnson, Molly Babel, Ivan Fong and Nancy Yiu
+11.The Margarita Dialogue Corpus: A Data Set for Time-Offset Interactions and Unstructured Dialogue Systems.Alberto Chierici, Nizar Habash and Margarita Bicec
+12.Towards Interactive Annotation for Hesitation in Conversational Speech.Jane Wottawa, Marie Tahon, Apolline Marin and Nicolas Audibert
+13.Emotional Speech Corpus for Persuasive Dialogue System.Sara Asai, Koichiro Yoshino, Seitaro Shinagawa, Sakriani Sakti and Satoshi Nakamura
+14.Treating Dialogue Quality Evaluation as an Anomaly Detection Problem.Rostislav Nedelchev, Ricardo Usbeck and Jens Lehmann
+15.Abusive language in Spanish teenager\xe2\x80\x99s conversations: data preparation and short text classification with contextual word embeddings.Marta R. Costa-juss\xc3\xa0, Esther Gonz\xc3\xa1lez and Asuncion Moreno
+16.SweDiL: An Annotated Corpus of Dialogues in Swedish Literary Fiction.Sara Stymne and Carin \xc3\x96stman
+17.Evaluation of Argument Search Approaches in the Context of Argumentative Dialogue Systems.Niklas Rach, Yuki Matsuda, Johannes Daxenberger, Stefan Ultes, Keiichi Yaumoto and Wolfgang Minker
+18.Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering.Angrosh Mandya, James O' Neill, Danushka Bollegala and Frans Coenen\r\n"
+19.Mapping the Dialog Act Annotations of the LEGO Corpus into ISO 24617-2 Communicative Functions.Eug\xc3\xa9nio Ribeiro, Ricardo Ribeiro and David Martins de Matos
+20.Estimating User Communication Styles for Spoken Dialogue Systems.Juliana Miehle, Isabel Feustel, Julia Hornauer, Wolfgang Minker and Stefan Ultes
+21.The ISO Standard for Dialogue Act Annotation, Second Edition.Harry Bunt, Volha Petukhova, Emer Gilmartin, Catherine Pelachaud, Alex Fang, Simon Keizer and Laurent Pr\xc3\xa9vot
+22.A Corpus of Controlled Opinionated and Knowledgeable Movie Discussions for Training Neural Conversation Models.Fabian Galetzka, Chuwkuemeka Uchenna Eneh and David Schlangen
+23.A French Medical Conversations Corpus Annotated for a Virtual Patient Dialogue System.Fr\xc3\xa9jus A. A. Laleye, Ga\xc3\xabl de Chalendar, Antonia Blani\xc3\xa9, Antoine Brouquet and Dan Behnamou
+24.Predicting the MPAA Rating Based on Movie Dialogues.mahsa shafaei, Niloofar Safi Samghabadi, Sudipta Kar and Thamar Solorio
+25.Getting To Know You: User Attribute Extraction from Dialogues.Chien-Sheng Wu, Andrea Madotto, Zhaojiang Lin, Peng Xu and Pascale Fung
+26.Introducing a Large-Scale Dataset for Vietnamese POS Tagging on Conversational Texts.Oanh Tran, Tu Pham and Vu Dang
+27.Augmenting Small Data to classify Contextualized Dialogue Acts \\\\ for Exploratory Visualization.Abhinav Kumar, Barbara Di Eugenio, Jillian Aurisano and Andrew Johnson
+28.MPDD: A Multi-Party Dialogue Dataset for Analysis of Emotions and Interpersonal Relationships.Yi-Ting Chen, Hen-Hsen Huang and Hsin-Hsi Chen
+29.\xe2\x80\x9cAlexa in the wild\xe2\x80\x9d \xe2\x80\x93 Collecting unconstrained conversations with a modern voice assistant in a public environment.Ingo Siegert
+30.Enriching Existing Conversational Emotion Datasets with Dialogue Acts using Neural Annotators.Chandrakant Bothe, Cornelius Weber, Sven Magg and Stefan Wermter
+31.Dicta-Sign-LSF-v2: Remake of a Continuous French Sign Language Dialogue Corpus and a First Baseline for Automatic Sign Language Processing.Valentin Belissen, Annelies Braffort and Mich\xc3\xa8le Gouiff\xc3\xa8s
+32.SibLing Corpus of Russian Dialogue Speech Designed for Research on Speech Entrainment.Tatiana Kachkovskaia, Tatiana Chukaeva, Vera Evdokimova, Pavel Kholiavin, Natalia Kriakina, Daniil Kocharov, Anna Mamushina, Alla Menshikova and Svetlana Zimina
+33.Gamification Platform for Collecting Task-oriented Dialogue Data.Haruna Ogawa, Hitoshi Nishikawa, Takenobu Tokunaga and Hikaru Yokono
+34.Dialogue Act Annotation in a Multimodal Corpus of First Encounter Dialogues.Costanza Navarretta and Patrizia Paggio
+35.A Conversation-Analytic Annotation of Turn-Taking Behavior in Japanese Multi-Party Conversation and its Preliminary Analysis.Mika Enomoto, Yasuharu Den and Yuichi Ishimoto
+36.Urdu Pitch Accents and Intonation Patterns in Spontaneous Conversational Speech.Luca Rognoni, Judith Bishop, Miriam Corris, Jessica Fernando and Rosanna Smith
+37.Building a Task-oriented Dialog System for languages with no training data.Maddalen L\xc3\xb3pez de Lacalle, Xabier Saralegi and I\xc3\xb1aki San Vicente
+38.WAC: A Corpus of Wikipedia Conversations for Online Abuse Detection.No\xc3\xa9 C\xc3\xa9cillon, Vincent Labatut, Richard Dufour and Georges Linar\xc3\xa8s
+39.Understanding User Utterances in a Dialog System for Caregiving.Yoshihiko Asao, Julien Kloetzer, Junta Mizuno, Dai Saiki, Kazuma Kadowaki and Kentaro Torisawa
+40.Designing Multilingual Interactive Agents using Small Dialogue Corpora.Donghui Lin, Masayuki Otani, Ryosuke Okuno and Toru Ishida
+41.A Study on Entity Resolution for Email Conversations.Parag Pravin Dakle, Takshak Desai and Dan Moldovan
+42.Multimodal corpus of bidirectional conversation of human-human and human-robot interaction during fMRI scanning.Birgit Rauchbauer, Youssef Hmamouche, Laurent Pr\xc3\xa9vot, Magalie Ochs and Thierry Chaminade
+43.Training a Broad-Coverage German Sentiment Classification Model for Dialog Systems.Oliver Guhr, Anne-Kathrin Schumann, Frank Bahrmann and Hans Joachim B\xc3\xb6hme
+44.The Brain-IHM Dataset: a New Resource for Studying the Brain Basis of Human-Human and Human-Machine Conversations.Magalie Ochs, Roxane Bertrand, Aur\xc3\xa9lie Goujon, Deirdre Bolger, Anne-Sophie Dubarry and Philippe Blache
+45.CRWIZ: A Framework for Crowdsourcing Real-Time Wizard-of-Oz Dialogues.Francisco Javier Chiyah Garcia, Jos\xc3\xa9 Lopes, Xingkun Liu and Helen Hastie
+46.Incorporating Politeness across Languages in Customer Care Responses: Towards building a Multilingual Empathetic Dialogue Agent. Mauajama Firdaus, Asif Ekbal and Pushpak Bhattacharyya
+47..Dialogue-AMR: Abstract Meaning Representation for Dialogue.Claire Bonial, Lucia Donatelli, Mitchell Abrams, Stephanie M. Lukin, Stephen Tratz, Matthew Marge, Ron Artstein, David Traum and Clare Voss
+48.MTSI-BERT: A Session-aware Knowledge-based Conversational Agent.Matteo Antonio Senese, Giuseppe Rizzo, Mauro Dragoni and Maurizio Morisio
+49.Predicting Ratings of Real Dialogue Participants from Artificial Data and Ratings of Human Dialogue Observers.Kallirroi Georgila, Carla Gordon, Volodymyr Yanov and David Traum
+50.Which Model Should We Use for a Real-World Conversational Dialogue System? a Cross-Language Relevance Model or a Deep Neural Net?.Seyed Hossein Alavi, Anton Leuski and David Traum
+51.Evaluation of Off-the-shelf Speech Recognizers Across Diverse Dialogue Domains.Kallirroi Georgila, Anton Leuski, Volodymyr Yanov and David Traum
+52.Modeling Dialogue in Conversational Cognitive Health Screening Interviews.Shahla Farzana, Mina Valizadeh and Natalie Parde
+53.AMUSED: A Multi-Stream Vector Representation Method for Use in Natural Dialogue.Gaurav Kumar, Rishabh Joshi, Jaspreet Singh and Promod Yenigalla
+54.An Annotation Approach for Social and Referential Gaze in Dialogue.Vidya Somashekarappa, Christine Howes and Asad Sayeed
+IJCAI
+2019
+1.Dual Visual Attention Network for Visual Dialog: Dan Guo, Hui Wang, Meng Wang
+2.Exploiting Persona Information for Diverse Generation of Conversational Responses: Haoyu Song, Wei-Nan Zhang, Yiming Cui, Dong Wang, Ting Liu
+3.Generative Visual Dialogue System via Weighted Likelihood Estimation: Heming Zhang, Shalini Ghosh, Larry Heck, Stephen Walsh, Junting Zhang, Jie Zhang, C.-C. Jay Kuo
+4.GSN: A Graph-Structured Network for Multi-Party Dialogues: Wenpeng Hu, Zhangming Chan, Bing Liu, Dongyan Zhao, Jinwen Ma, Rui Yan
+5.Learning to Select Knowledge for Response Generation in Dialog Systems: Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu
+6.Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems: Fei Mi, Minlie Huang, Jiyong Zhang, Boi Faltings
+7.Modeling both Context- and Speaker-Sensitive Dependence for Emotion Detection in Multi-speaker Conversations: Dong Zhang, Liangqing Wu, Changlong Sun, Shoushan Li, Qiaoming Zhu, Guodong Zhou
+8.Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis: Yazhou Zhang, Qiuchi Li, Dawei Song, Peng Zhang, Panpan Wang
+9.Embodied Conversational AI Agents in a Multi-modal Multi-agent Competitive Dialogue: Rahul Divekar, Xiangyang Mou, Lisha Chen, Ma\xc3\xadra Gatti de Bayser, Melina Alberio Guerra, Hui Su
+2020
+1. DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue .
+ 2.GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension .
+ 3.Adaptively Multi-Objective Adversarial Training for Dialogue Generation .
+ 4.Towards Explainable Conversational Recommendation .
+ 5.Dialogue State Induction Using Neural Latent Variable Models .
+ 6.End-to-End Transition-Based Online Dialogue Disentanglement .
+ 7.Enhancing Dialog Coherence with Event Graph Grounded Content Planning .
+ 8.Exemplar Guided Neural Dialogue Generation .
+ 9.Modeling Topical Relevance for Multi-Turn Dialogue Generation .
+ 10.TopicKA: Generating Commonsense Knowledge-Aware Dialogue Responses Towards the Recommended Topic Fact .
+ 11.Two-stage Behavior Cloning for Spoken Dialogue System in Debt Collection .
+EACL
+2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
