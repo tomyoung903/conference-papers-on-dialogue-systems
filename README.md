@@ -1,5 +1,7 @@
 # top conference papers on dialogue systems
-papers on dialogue systems
+
+Conference names:
+acl, icml, aaai, neurips, emnlp, naacl, ijcai, lrec, eacl, sigir, icdm, cikm
 
 
 See update-to-date version here:
